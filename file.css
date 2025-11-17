@@ -1,0 +1,28 @@
+body {
+    background: violet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+header {
+    background: aqua;
+    color: aliceblue;
+    text align: center;
+    padding: 6px;
+    border-radius: 12px;
+}
+table {
+ border: solid red; 
+ border-radius: 5px;  
+}
+ th, td {
+    border: 2px solid yellow;
+    align-content: center;
+    text-align: center;
+    padding: 8px;
+    margin: 0px;
+}
+mark {
+    background-color: brown;
+    color:azure;
+    padding: 4px;
+    border-radius: 7px;
+}
+
